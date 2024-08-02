@@ -17,6 +17,7 @@ MARGIN_H, MARGIN_W = 30,30
 HIGHLIGHT_COLOR = (191, 182, 56)  # Gold color for the highlight
 HIGHLIGHT_THICKNESS = 10
 
+#Default set by image width and Across 
 SCREEN_WIDTH = (IMAGES_WIDTH+MARGIN_W)*IMAGES_ACROSS+MARGIN_W
 SCREEN_HEIGHT = 1200
 
